@@ -13,13 +13,18 @@
 	.cajas p{
 		text-align: right
 	}
-	iframe{
+	.mapa{
 	margin: auto;
 	width: 100%;
 	height: 400px;
 	}
 	fieldset { 
 	width: 100%; }
+	
+	.video iframe{
+	height: 150px;
+	width: 150px;
+}
 }
 @media screen and (min-width:820px) and (max-width:1280px){
     body{padding: 0 5% 0 5% ; text-align: left;}
@@ -38,7 +43,7 @@
 		width: 95%
 	}
 	.Mequieromorir{margin-left: 10%;}
-	iframe{
+	.mapa{
 	margin: auto;
 	margin-left: 10%;
 	width: 75%;
@@ -53,6 +58,10 @@
 		margin: auto;
 	margin-left: 10%;
 	}
+	.video iframe{
+	height: 350px;
+	width: 350px;
+}
 }
 @media screen and (min-width:1280px){
 	body{padding: 0 5% 0 5% ; text-align: left;}
@@ -71,7 +80,7 @@
 		width: 75%
 	}
 	.Mequieromorir{margin-left: 20%;}
-	iframe{
+	.mapa{
 	margin: auto;
 	margin-left: 20%;
 	width:55%;
@@ -87,6 +96,10 @@
 	float: left;
 	margin-left: 10%;
 	text-align: start;
+	}
+.video iframe{
+	height: 450px;
+	width: 450px;
 }
 /*Cuerpo Index*/
 fieldset{
@@ -150,6 +163,7 @@ h2 {color: #b14016;
 input {
     margin: 5px;
     margin-left: 5px;
+	height: 25px;
 }
 textarea {margin: 0 10px 0 10px; 
 	padding: 0 10 0 10;}
