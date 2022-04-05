@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Boletín de Información de La Herreria S.L</title>
+    <atom:link href="https://pansitof.github.io/ProyectoLenguaje/feed/noticias.atom" rel="self" type="application/rss+xml" />
+    <link href="https://pansitof.github.io/ProyectoLenguaje/feed/noticias.atom" />
+    <updated>2017-04-09T19:00:00-01:00</updated>
+    <author><name>Francisco</name></author>
+	<id>https://pansitof.github.io/ProyectoLenguaje</id>
+<entry>
+    <title>Ampliación de fronteras de La Herreria S.L</title>
+    <link href="https://pansitof.github.io/ProyectoLenguaje" /> 
+	<id>https://pansitof.github.io/ProyectoLenguaje/html/contacto.html</id>
+    <updated>2017-04-09T19:00:00-01:00</updated>
+    <content>La Herreria S.L extiende su capacidad de servicios al poder ofrecer ahora sus minerales procesados en diversas formas de aleaciones y otros preparados metálicos</content>
+</entry>
+<entry>
+    <title>Tiempo en Tenerife</title>
+    <link href="https://www.eltiempo.es/en-provincia-tenerife" /> 
+	<id>https://www.eltiempo.es/en-provincia-tenerife</id>
+    <updated>2018-07-04T20:00:00-03:55</updated>
+    <content>Obtener información del tiempo desde www.eltiempo24.es</content>
+</entry>
+<entry>
+    <title>Ampliación de fronteras de La Herreria S.L</title>
+    <link href="https://knowyourmeme.com/memes/stonks/" /> 
+	<id>https://knowyourmeme.com/memes/stonks/</id>
+    <updated>2100-10-1T01:01:01-01:01</updated>
+    <content>El meme stonks ha sido usado mucho en el año pasado, sus orígenes son de gran interés./content>
+</entry>
+</feed>
